@@ -1,7 +1,7 @@
 # My Portfolio
 
 ### Hi there! ✨
-I'm a designer and front-end developer junior based in Buenos Aires, Argentina.
+I'm a Visual Designer and front-end developer trainee based in Buenos Aires, Argentina.
 
 ___
 
@@ -9,7 +9,7 @@ ___
 
 ##### Design
 
-- Adobe Illustrator | Adobe Photoshop | Adobe Lightroom | Figma
+- Figma | Adobe Illustrator | Adobe Photoshop | Adobe Lightroom | Adobe Premiere 
 
 ##### Web Development
 
