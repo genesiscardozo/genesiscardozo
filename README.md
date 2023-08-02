@@ -3,6 +3,10 @@
 ### Hi there! ✨
 I'm a Visual Designer and front-end developer trainee based in Buenos Aires, Argentina.
 
+I'm currently working as a Remote Visual Designer and I Work with the marketing, sales, and production departments to create high-quality visual design solutions.
+
+Reach out: genesiscardozos@gmail.com
+
 ___
 
 #### LANGUAGES AND TOOLS:
@@ -13,7 +17,11 @@ ___
 
 ##### Web Development
 
-- HTML | CSS | SASS | Bootstrap | JavaScript
+- HTML | CSS | SASS | Bootstrap | JavaScript | GitHub | Git
+
+##### Agile:
+
+- Trello | Slack | Notion | ClickUp
 
 #### ABOUT ME: 
 - **I'm Open to work!** 💻
