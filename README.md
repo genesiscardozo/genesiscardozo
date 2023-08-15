@@ -1,12 +1,11 @@
 # My Portfolio
 
-### Hi there! ✨
-I'm a Visual Designer and front-end developer trainee based in Buenos Aires, Argentina.
+### Hello there! ✨
+I'm a Visual Designer and aspiring front-end developer based in Buenos Aires, Argentina.
+Currently, I'm working as a Remote Visual Designer and collaborating closely with the marketing, sales, and production departments to craft high-quality visual design solutions. Alongside this, I'm pursuing a degree in Computer Engineering.
 
-I'm currently working as a Remote Visual Designer and I Work with the marketing, sales, and production departments to create high-quality visual design solutions.
-
-Reach out: genesiscardozos@gmail.com
-
+Feel free to explore my Design Portfolio: https://www.behance.net/genesiscardozos
+Get in touch: genesiscardozos@gmail.com
 ___
 
 #### LANGUAGES AND TOOLS:
@@ -24,9 +23,9 @@ ___
 - Trello | Slack | Notion | ClickUp
 
 #### ABOUT ME: 
-- **I'm Open to work!** 💻
-- I'm currently learning JavaScript and React.
-- I'm an UX/UI design enthusiast.
+- **I'm Open to Opportunities!** 💻
+- Currently on a journey of learning JavaScript and React.
+- Enthusiastic about UX/UI design and its impact.
 - I'm passionate about technology and learning new things.
 
 ___
