@@ -5,6 +5,8 @@ I'm a Visual Designer and aspiring front-end developer based in Buenos Aires, Ar
 Currently, I'm working as a Remote Visual Designer and collaborating closely with the marketing, sales, and production departments to craft high-quality visual design solutions. Alongside this, I'm pursuing a degree in Computer Engineering.
 
 Feel free to explore my Design Portfolio: https://www.behance.net/genesiscardozos
+
+
 Get in touch: genesiscardozos@gmail.com
 ___
 
