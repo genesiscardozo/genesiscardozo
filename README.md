@@ -6,15 +6,14 @@ Currently, I'm working as a Remote Visual Designer and collaborating closely wit
 
 Feel free to explore my Design Portfolio: https://www.behance.net/genesiscardozos
 
-
-Get in touch: genesiscardozos@gmail.com
+Contact me at genesiscardozos@gmail.com. I am actively seeking full-time remote positions and am available for inquiries!
 ___
 
 #### LANGUAGES AND TOOLS:
 
 ##### Design
 
-- Figma | Adobe Illustrator | Adobe Photoshop | Adobe Lightroom | Adobe Premiere 
+- Figma | Adobe Illustrator | Adobe Photoshop | Adobe Lightroom | Adobe Premiere
 
 ##### Web Development
 
@@ -26,7 +25,7 @@ ___
 
 #### ABOUT ME: 
 - **I'm Open to Opportunities!** 💻
-- Currently on a journey of learning JavaScript and React.
+- Currently on a journey of learning Python.
 - Enthusiastic about UX/UI design and its impact.
 - I'm passionate about technology and learning new things.
 
